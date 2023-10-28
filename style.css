@@ -1,0 +1,5 @@
+.border-fila {
+    margin-bottom: 10px; /* Añade un margen inferior para separar las filas */
+    padding: 10px; /* Añade relleno para separar el contenido del borde */
+    background-color:whitesmoke;
+}
